@@ -1,4 +1,4 @@
-# post_wizard
+# postWizard_frontend
 
 A new Flutter project.
 
