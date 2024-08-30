@@ -85,3 +85,33 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+## Usage
+
+### User Authentication
+
+- **Login:** Users can log in using their email and password. 
+- **Registration:** New users can create an account by providing necessary details.
+- **Password Recovery:** Users can reset their password via email if they forget it.
+
+### Image Upload and Caption Generation
+
+- **Upload Image:** Users can upload an image from their device and optionally add a description.
+- **AI-Generated Captions:** The app communicates with the backend to generate and display AI-powered captions for different social media platforms.
+- **Automated Posting:** With a single click, users can post the generated content across their connected social media accounts.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs or feature requests.
+
+### Steps to Contribute
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
