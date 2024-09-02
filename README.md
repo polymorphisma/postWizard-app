@@ -2,8 +2,6 @@
 
 Welcome to the frontend repository for **PostWizard**, an AI-powered social media automation app. This app simplifies the process of generating and posting optimized captions on various social media platforms by utilizing AI. 
 
-![PostWizard](https://path-to-your-image.com/image.png) <!-- Add your logo or main image here -->
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -44,7 +42,7 @@ Here are some screenshots of the app in action:
 
 - **Login Screen:**
   
-  ![Login Screen](https://path-to-your-image.com/login-screen.png)
+  ![Login Screen](https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080356.png)
 
 - **Register Screen:**
   
