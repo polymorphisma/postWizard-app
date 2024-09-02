@@ -23,7 +23,7 @@ class _LoginScreenState extends State<LoginScreen> {
         data: {
           'username': username,
           'password': password,
-        },z
+        },
       );
       // Assuming the response returns a JSON object with a success field
       if (response.statusCode == 200 && response.data['success'] == true) {
