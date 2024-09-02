@@ -43,7 +43,7 @@ Here are some screenshots of the app in action:
 - **Login Screen:**
   
   ![Login Screen](https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080356.png)
-
+  <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080356.png" width="128"/>
 - **Register Screen:**
   
   ![Register Screen](https://path-to-your-image.com/register-screen.png)
