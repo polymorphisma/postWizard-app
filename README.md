@@ -37,24 +37,31 @@ Welcome to the frontend repository for **PostWizard**, an AI-powered social medi
 Here are some screenshots of the app in action:
 
 - **Home Screen:**
-  
-  ![Home Screen](https://path-to-your-image.com/home-screen.png)
+
+  <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080553.png" width="128"/>
 
 - **Login Screen:**
   
-  ![Login Screen](https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080356.png)
   <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080356.png" width="128"/>
+
 - **Register Screen:**
   
-  ![Register Screen](https://path-to-your-image.com/register-screen.png)
+  <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080309.png" width="128"/>
 
 - **Upload Screen:**
   
-  ![Upload Screen](https://path-to-your-image.com/upload-screen.png)
+  <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080603.png" width="128"/>
+  <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080634.png" width="128"/>
 
 - **Forgot Password Screen:**
   
-  ![Forgot Password Screen](https://path-to-your-image.com/forgot-password-screen.png)
+  <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot_20240830_080328.png" width="128"/>
+
+
+- **Result:**
+  
+  <img src="https://github.com/polymorphisma/postWizard-frontend/blob/main/images/Screenshot 2024-08-30 080742.png" width="128"/>
+
 
 ## Installation
 
